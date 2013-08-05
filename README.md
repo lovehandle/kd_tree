@@ -6,7 +6,7 @@ KDTree is a Ruby wrapper for John Tsiombikas' KDTree library written in C. It su
 
 Add this line to your application's Gemfile:
 
-    gem 'kd_tree'
+    gem 'rb_kd_tree'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install kd_tree
+    $ gem install rb_kd_tree
 
 ## Usage
 
