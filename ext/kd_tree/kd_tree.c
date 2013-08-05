@@ -1,8 +1,6 @@
 #include <ruby.h>
 #include "vendor/kdtree.c"
 
-VALUE cKDTreeNode;
-
 struct kdtree * get_tree_from_klass(VALUE klass)
 {
   struct kdtree * pointer;
